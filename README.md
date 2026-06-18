@@ -1,3 +1,3 @@
 # digital_scale_project
 
-Code written by Esther Wang :)
+Code written for digital scale made from scratch.
